@@ -1,1 +1,3 @@
-# PHP2_2023_aud_t1
+# PHP2 skolska 2022/23
+# auditorne vezbe
+# nedelja 2
